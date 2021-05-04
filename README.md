@@ -6,3 +6,5 @@ My very own personal website. Basically this is just a résumé
 
 GitHub Pages link:
 https://svitlua.github.io/homepage/
+
+🧙Hocus-pocus!
